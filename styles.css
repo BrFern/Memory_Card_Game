@@ -9,7 +9,16 @@ body {
     background: blue;
 }
 
-img {
-    width: 100px;
-    
+.memory-game {
+    border: 2px solid lime;
 }
+
+.memory-card {
+    border: 2px solid aqua;
+}
+
+.front-face,
+.back-face {
+    border: 2px solid deeppink
+}
+
