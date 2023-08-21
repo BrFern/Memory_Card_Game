@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    background: #060ab2;
+    background: pink;
     display: flex;
 }
 
@@ -46,7 +46,7 @@ body {
     height: 100%;
     position: absolute;
     border-radius: 5px;
-    background: #1c7ccc; 
+    background: lightpink; 
     backface-visibility: hidden;
 }
 
